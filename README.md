@@ -1,10 +1,11 @@
 # ShowDirStructure
-Returns dictionary structure containing all the directories and size of each file under each directory.
+Returns dictionary structure containing information about sub-directories and size of each file under each directory.
 
 Usage:
 ```python
 python show_dir_structure.py
 ```
+
 Output sample:
 ```python
 {

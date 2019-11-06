@@ -1,5 +1,5 @@
 # ShowDirStructure
-Returns dictionary structure containing information about sub-directories and size of each file under each directory.
+Returns dictionary structure containing information about sub-directories and size in bytes of each file under each directory.
 
 Usage:
 ```python

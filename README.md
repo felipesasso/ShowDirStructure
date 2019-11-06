@@ -3,11 +3,11 @@ Returns dictionary structure containing all the directories and size of each fil
 
 Usage:
 ```python
-$ python show_dir_structure.py
+python show_dir_structure.py
 ```
 Output sample:
 ```python
-$ python show_dir_structure.py
+python show_dir_structure.py
 {
     'api': {
         'settings.py': 3385, 
